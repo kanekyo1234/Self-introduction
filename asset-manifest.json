@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.js": "/Self-introduction/static/js/main.2392ce0f.chunk.js",
-    "main.js.map": "/Self-introduction/static/js/main.2392ce0f.chunk.js.map",
+    "main.js": "/Self-introduction/static/js/main.2eb33e81.chunk.js",
+    "main.js.map": "/Self-introduction/static/js/main.2eb33e81.chunk.js.map",
     "runtime-main.js": "/Self-introduction/static/js/runtime-main.8f7bc17d.js",
     "runtime-main.js.map": "/Self-introduction/static/js/runtime-main.8f7bc17d.js.map",
     "static/css/2.7643263c.chunk.css": "/Self-introduction/static/css/2.7643263c.chunk.css",
-    "static/js/2.ab6db739.chunk.js": "/Self-introduction/static/js/2.ab6db739.chunk.js",
-    "static/js/2.ab6db739.chunk.js.map": "/Self-introduction/static/js/2.ab6db739.chunk.js.map",
+    "static/js/2.aae61376.chunk.js": "/Self-introduction/static/js/2.aae61376.chunk.js",
+    "static/js/2.aae61376.chunk.js.map": "/Self-introduction/static/js/2.aae61376.chunk.js.map",
     "index.html": "/Self-introduction/index.html",
-    "precache-manifest.bc3c2d8a4f7137f42d1937b106786573.js": "/Self-introduction/precache-manifest.bc3c2d8a4f7137f42d1937b106786573.js",
+    "precache-manifest.5cf177e522dd19a10d93f7ff1f6fbbae.js": "/Self-introduction/precache-manifest.5cf177e522dd19a10d93f7ff1f6fbbae.js",
     "service-worker.js": "/Self-introduction/service-worker.js",
     "static/css/2.7643263c.chunk.css.map": "/Self-introduction/static/css/2.7643263c.chunk.css.map",
-    "static/js/2.ab6db739.chunk.js.LICENSE.txt": "/Self-introduction/static/js/2.ab6db739.chunk.js.LICENSE.txt",
-    "static/media/DEAMN3.jpg": "/Self-introduction/static/media/DEAMN3.1a22e47c.jpg",
+    "static/js/2.aae61376.chunk.js.LICENSE.txt": "/Self-introduction/static/js/2.aae61376.chunk.js.LICENSE.txt",
     "static/media/Jonas.jpg": "/Self-introduction/static/media/Jonas.d7c328e9.jpg",
     "static/media/Matin.jpg": "/Self-introduction/static/media/Matin.d76e3b14.jpg",
     "static/media/Top.jpg": "/Self-introduction/static/media/Top.71f1aec7.jpg",
-    "static/media/all.min.css": "/Self-introduction/static/media/fa-solid-900.ec763292.svg"
+    "static/media/all.min.css": "/Self-introduction/static/media/fa-solid-900.ec763292.svg",
+    "static/media/myface.jpg": "/Self-introduction/static/media/myface.b244dfed.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8f7bc17d.js",
     "static/css/2.7643263c.chunk.css",
-    "static/js/2.ab6db739.chunk.js",
-    "static/js/main.2392ce0f.chunk.js"
+    "static/js/2.aae61376.chunk.js",
+    "static/js/main.2eb33e81.chunk.js"
   ]
 }
