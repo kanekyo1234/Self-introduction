@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.js": "/Self-introduction/static/js/main.918db951.chunk.js",
-    "main.js.map": "/Self-introduction/static/js/main.918db951.chunk.js.map",
+    "main.js": "/Self-introduction/static/js/main.23974f28.chunk.js",
+    "main.js.map": "/Self-introduction/static/js/main.23974f28.chunk.js.map",
     "runtime-main.js": "/Self-introduction/static/js/runtime-main.8f7bc17d.js",
     "runtime-main.js.map": "/Self-introduction/static/js/runtime-main.8f7bc17d.js.map",
     "static/css/2.7643263c.chunk.css": "/Self-introduction/static/css/2.7643263c.chunk.css",
-    "static/js/2.70419a87.chunk.js": "/Self-introduction/static/js/2.70419a87.chunk.js",
-    "static/js/2.70419a87.chunk.js.map": "/Self-introduction/static/js/2.70419a87.chunk.js.map",
+    "static/js/2.0bd4f402.chunk.js": "/Self-introduction/static/js/2.0bd4f402.chunk.js",
+    "static/js/2.0bd4f402.chunk.js.map": "/Self-introduction/static/js/2.0bd4f402.chunk.js.map",
     "index.html": "/Self-introduction/index.html",
-    "precache-manifest.86a098a469967d08352e9ef19c595698.js": "/Self-introduction/precache-manifest.86a098a469967d08352e9ef19c595698.js",
+    "precache-manifest.21d1c02f7692c370cdd925ff3976c8ff.js": "/Self-introduction/precache-manifest.21d1c02f7692c370cdd925ff3976c8ff.js",
     "service-worker.js": "/Self-introduction/service-worker.js",
     "static/css/2.7643263c.chunk.css.map": "/Self-introduction/static/css/2.7643263c.chunk.css.map",
-    "static/js/2.70419a87.chunk.js.LICENSE.txt": "/Self-introduction/static/js/2.70419a87.chunk.js.LICENSE.txt",
+    "static/js/2.0bd4f402.chunk.js.LICENSE.txt": "/Self-introduction/static/js/2.0bd4f402.chunk.js.LICENSE.txt",
     "static/media/Jonas.jpg": "/Self-introduction/static/media/Jonas.d7c328e9.jpg",
     "static/media/Matin.jpg": "/Self-introduction/static/media/Matin.d76e3b14.jpg",
-    "static/media/Top.jpg": "/Self-introduction/static/media/Top.71f1aec7.jpg",
     "static/media/badd.jpg": "/Self-introduction/static/media/badd.529d6291.jpg",
     "static/media/badk.jpg": "/Self-introduction/static/media/badk.ee3bab74.jpg",
     "static/media/dis1.jpg": "/Self-introduction/static/media/dis1.7bdbb551.jpg",
@@ -32,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.8f7bc17d.js",
     "static/css/2.7643263c.chunk.css",
-    "static/js/2.70419a87.chunk.js",
-    "static/js/main.918db951.chunk.js"
+    "static/js/2.0bd4f402.chunk.js",
+    "static/js/main.23974f28.chunk.js"
   ]
 }
